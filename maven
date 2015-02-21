@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=c:\model.jar -DgroupId=model -DartifactId=model -Dversion=1.0 -Dpackaging=jar -DgenerationPom=true
